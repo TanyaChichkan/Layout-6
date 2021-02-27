@@ -1,0 +1,113 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #525252;
+
+}
+
+.container {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+
+.nav{
+    display: none;
+}
+
+
+.navbar-brand{
+    color: #000;
+    font-size: 40px;
+}
+
+.navbar-toggle{
+    border: 0.5px solid #808080;
+    background-color: #fff;
+}
+
+.nav-link{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar-btn{
+    color: #fff;
+    font-size: 20px;
+}
+
+h1{
+    color: #000;
+}
+
+
+.btn-primary{
+    background-color: #ff7f50;
+}
+
+.hero_text{
+    font-size: 20px;
+}
+
+.gallery{
+    background-color: #343a40;
+}
+
+.gallery h2{
+    color: #fff;
+}
+
+.gallery p{
+    color: #fff;
+}
+
+.gallery h5{
+    color: #fff;
+}
+
+.card-body{
+    background-color: #343a40;
+}
+
+
+.list-group-item{
+  background-color: #343a40;  
+}
+
+.change-color{
+    background-color: #fff;
+}
+
+.page-footer{
+    background-color: #343a40;
+    color: #fff;
+}
+
+.footer-title{
+    font-size: 25px;
+}
+
+.card{
+    background-color: transparent;
+}
+
+.card-body{
+    border: none;
+}
+
+.card-text{
+    font-size: 16px;
+}
+
+.posts{
+    color: #000;
+}
+
+.posts .card-tetx{
+    color: #000;
+}
+
